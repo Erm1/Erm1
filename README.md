@@ -22,24 +22,16 @@ I’m currently the **Founder & CEO** of [MedEAfrica](https://www.medeafrica.org
 
 ## 🧑‍💻 My GitHub Projects
 
-### 🏥 [MedEAfrica: Healthcare Management System](https://github.com/Erm1/medea-africa)
+### 🏥 [MedEAfrica: Healthcare Management System](https://www.medeafrica.org)
 A web application designed to streamline hospital and pharmacy management.
-
-### 💻 [React UI Components](https://github.com/Erm1/react-components)
-Reusable React UI components designed to speed up web development.
-
-### 🏥 [Hospital Management System](https://github.com/Erm1/hospital-management)
-A comprehensive system for managing hospital operations.
 
 ---
 
 ## 📚 Technologies I Love:
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
@@ -54,8 +46,6 @@ A comprehensive system for managing hospital operations.
 ## 🔥 My GitHub Activity:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Erm1.Erm1)
-
-![Wakatime](https://wakatime.com/badge/user/your-username.svg)
 
 ---
 
