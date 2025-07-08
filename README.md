@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions, contributing to open-source projects, and improving the world with **tech**. 
 
-I’m currently the **Founder & CEO** of [MedEAfrica](https://www.medeafrica.org), working on revolutionizing healthcare in Africa.
+I’m currently the **Founder & CEO** of [Vasflo](https://www.vasflo.com), working on revolutionizing healthcare in Africa.
 
 ## 🌱 What I'm currently working on:
-- Building scalable healthcare systems at [MedEAfrica](https://www.medeafrica.org)
+- Building scalable healthcare systems at [Vasflo](https://www.vasflo.com)
 - Exploring **AI/ML** to enhance healthcare data management.
 
 ---
@@ -22,7 +22,7 @@ I’m currently the **Founder & CEO** of [MedEAfrica](https://www.medeafrica.org
 
 ## 🧑‍💻 My GitHub Projects
 
-### 🏥 [MedEAfrica: Healthcare Management System](https://www.medeafrica.org)
+### 🏥 [Vasflo: Healthcare Management System](https://www.vasflo.com)
 A web application designed to streamline hospital and pharmacy management.
 
 ---
