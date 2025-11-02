@@ -1,58 +1,25 @@
-# Hi, I'm Ermiyas! 👋
+# Ermiyas Liyeh
 
-Welcome to my GitHub profile! I'm passionate about building innovative solutions, contributing to open-source projects, and improving the world with **tech**. 
+Building reliable systems and occasionally breaking them at 3 AM.
 
-I’m currently the **Founder & CEO** of [Vasflo](https://www.vasflo.com), working on revolutionizing healthcare in Africa.
+Ex-AWS, Deutsche Bank. Founding engineer at [Vasflo](https://vasflo.com). Currently working as an SDE at Intuit.
 
-## 🌱 What I'm currently working on:
-- Building scalable healthcare systems at [Vasflo](https://www.vasflo.com)
-- Exploring **AI/ML** to enhance healthcare data management.
+## Current Focus
 
----
+Distributed systems, backend architecture, and making healthcare tech actually work. Spring Boot, Java, PostgreSQL, the usual suspects.
 
-## 🚀 Stats & Contributions
+## Work
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erm1&show_icons=true&count_private=true&hide=prs)
+**Intuit** — Software Engineer *(Starting Soon)*  
+**Vasflo** — Founding Engineer  
+**Amazon Web Services** — Software Development Engineer  
+**Deutsche Bank** — Tech, Data, and Innovation Analyst
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erm1&layout=compact)
+## Connect
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Erm1)
-
----
-
-## 🧑‍💻 My GitHub Projects
-
-### 🏥 [Vasflo: Healthcare Management System](https://www.vasflo.com)
-A web application designed to streamline hospital and pharmacy management.
+[Website](https://ermiyasliyeh.com) · [LinkedIn](https://linkedin.com/in/ermiliyeh) · [Email](mailto:eliyeh@u.rochester.edu)
 
 ---
-
-## 📚 Technologies I Love:
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-## 💬 Get in Touch:
-
-- 📧 [Email](mailto:eliyeh@u.rochester.edu)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ermiliyeh/)
-- 🐦 [Twitter](https://twitter.com/ermiyasliyeh)
-
----
-
-## 🔥 My GitHub Activity:
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Erm1.Erm1)
-
----
-
-## 🎯 Let's Connect!
-I'm always open to collaborating on new projects, sharing ideas, and learning together. Feel free to connect with me through the links above!
-
----
-
-**Thank you for visiting my profile!**
-
+```
+Professional bug creator and occasional fixer.
+```
